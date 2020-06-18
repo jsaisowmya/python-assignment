@@ -1,0 +1,4 @@
+r=int(input("radius is:"))
+pi=3.142
+a=pi*r*r
+print("area of circle",a)

@@ -1,0 +1,4 @@
+l=int(input("length is:"))
+b=int(input("breath is:"))
+a=l*b
+print("area of rectangle",a)
